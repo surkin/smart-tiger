@@ -5,7 +5,7 @@
   "header": {
     "title": "Stackbit Fresh",
     "tagline": "Header Tagline",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/IMG_0535.jpg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
